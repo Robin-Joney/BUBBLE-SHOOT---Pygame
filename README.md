@@ -1,7 +1,8 @@
 # BUBBLE-SHOOT---Pygame
 BUBBLE SHOOT - Pygame (python)
 
-![a6kaa12o4e6ackt963sms2bhdb](https://user-images.githubusercontent.com/83162417/141504207-1a47b583-2ae0-482c-ac3c-a21466d13ce2.png)
+![68747470733a2f2f7261772e6769746875622e636f6d2f6a757374696e6d6569737465722f627562626c6573686f6f7465722f6d61737465722f627562626c655f73686f6f7465725f73637265656e73686f742e706e67](https://user-images.githubusercontent.com/83162417/141504686-686a7e0b-d038-414b-ba83-0195cd0b6f3c.png)
+
 
 Bubbleshooter
  This is a Bubble shooter Game made with pygame.
